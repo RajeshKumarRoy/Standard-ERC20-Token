@@ -1,1 +1,1 @@
-# ERC20-Token-Standard
+# Standard-ERC20-Token
